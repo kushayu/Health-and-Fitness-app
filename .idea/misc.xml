@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/drawable/backgroundcrop.xml" value="0.2703125" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/drawable/btn.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/drawable/button.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/drawable/button_bg.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/drawable/button_bg_round.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/drawable/button_ji.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_10a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_11.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_11a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_12.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_12a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_13.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_13a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_14.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_14a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_15.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_15a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_1a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_2a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_3a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_4a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_5a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_6a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_7a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_8a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_9a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_foodactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_foodactivitydetails.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_second.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_secondactivity2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/activity_thirdactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/HealthAndFitnessApp/app/src/main/res/layout/row.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
