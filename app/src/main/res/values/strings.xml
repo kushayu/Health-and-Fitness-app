@@ -5,7 +5,7 @@
                              Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
                              Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
                              Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
-    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base of your head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
     <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
                              Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
                              Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
@@ -57,5 +57,60 @@
     <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
                              Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
                              Step 3:- Head will follow chest action. </string>
+    <string-array name="title_story">
+        <item>1: Make sure you\'re eating healthy</item>
+        <item>2. Prepare ahead</item>
+        <item>3. Eat more clean food</item>
+        <item>4. Control your portion sizes</item>
+        <item>5. Eat with purpose</item>
+        <item>6. Understand the basics of building muscle</item>
+        <item>7. Work your full range of motion</item>
+        <item>8. Don&amp;#8217;t go too heavy</item>
+        <item>9. Carefully consider cardio</item>
+        <item>10. Choose supplements intelligently</item>
+        <item>11. Prepare yourself for endurance training</item>
+        <item>12. Heart rate monitor</item>
+        <item>13. Exhaust for endurance</item>
+        <item>14. Consider reducing rest time</item>
+        <item>15. Learn how to fight fatigue</item>
+        <item>16. Understand strength-training basics</item>
+        <item>17. Find your motivation</item>
+        <item>18. Carefully focus on form</item>
+        <item>19. Be mindful of the little things</item>
+        <item>20. Change helps</item>
+        <item>21. Understand the basics of fat loss</item>
+        <item>22. Take photographic evidence</item>
+        <item>23. Understand how to use carbs</item>
+        <item>24. Attack your lower body to burn fat</item>
+        <item>25. Hydrate properly</item>
+
+    </string-array>
+    <string-array name="detail_story">
+        <item>Ask almost any personal trainer and they’ll tell you that regardless of your training goals, healthy eating is the backbone. Food is what fuels your body to reach your goals, and without proper nutrition through quality foods, you’re likely to stall. Maintain a balanced diet consisting of fruits, vegetables, complex carbohydrates, complete proteins, and healthy fats like fish oils and flaxseeds.</item>
+        <item>Preparing meals in advance gives you the best chance to accomplish your nutrition goals, says Micah LaCerte, a personal trainer and fitness competition world champion. That way, he says, you won’t feel pressured to eat unhealthy foods or skip meals. </item>
+        <item>Eating only three daily meals? Not a great idea. “Half the people I deal with aren’t losing weight because they don’t eat enough,” says veteran personal trainer Mike Duffy. Duffy advises his clients “to eat five times a day, about every three hours, to stimulate their metabolism” including two mini-meals between three basic meals. With activity levels decreasing throughout the day, he advises to “eat less as the day goes on</item>
+        <item>You’ll be eating more often, so paying attention to portions is extremely important. “Make sure chicken breasts, (and) meats, are no larger than your palm, and that pastas are no larger than your fists,” says Jay Cardiello, a personal trainer to countless celebrities and professional athletes. He also suggests using “smaller bowls, plates, and cups” because studies show people “serve themselves 20-40% more food when they’re using larger plates.”</item>
+        <item>Everything you consume should have substantial nutritional value. “You want the most nutritional bang for your buck,” says Dan Trink, C.S.C.S., a strength coach and trainer. “Everything you eat should serve some sort of nutritional purpose in your body, fuel your workouts, and (be) geared toward optimizing your body.”</item>
+        <item>Talk to any personal trainer and they’ll tell you there are certain muscle-building basics. First, increase your caloric and complete protein intake, so your body has enough building blocks to get bigger. Then, when you enter the gym, focus on your form. Perform compound movements and train with weights on average around four times a week. Never underestimate the importance of rest. Remember, muscle tissue grows outside of the gym when you’re giving your body time to relax and recover following your workouts.</item>
+        <item>Don’t take any shortcuts. “Aim for the largest range of motion you can achieve in your exercises,” says Lee Boyce, C.P.T. “Your muscles will do more work per rep, and it will result in your breaking down more tissue by the end of the workout.”</item>
+        <item>Wondering how to get the most out of lifting weights? “Use a weight that will have you failing on the set between the 30- and 40-second mark,” Duffy says. Time under tension causes muscle to grow. “If you’re failing at 20 seconds, you know that weight was too heavy.”</item>
+        <item>If getting huge is your goal, then throttle back on your cardio workouts, says LaCerte—chances are, you’ll be burning far too many calories. So what should you do if you still want to get in some cardio? LaCerte says “a light jog a few days per week for 20 minutes is adequate.” If you’re aiming to burn fat, of course, then focus on getting enough protein every day (usually one gram of protein per pound of ideal body weight), while still keeping your overall caloric intake low.</item>
+        <item>Some trainers and lifters feel supplements can play a key role in boosting muscle gains. If you subscribe to that theory, then chances are, you’re already taking protein supplements—but what else? Creatine, for one, “seems to be about the most effective strength- and size-building supplement,” Trink says. To boost your performance, you may also want to try peppermint. Cardiello explains that the scent “alters the perception of how hard you’re working out,” making it seem “less strenuous, slower-paced, and easier to complete.”</item>
+        <item>When it comes to training for endurance, you’ll need to be hydrated and be sure you’re eating properly because, by its very nature, this form of training is very demanding on your body. You should be doing a good mix of cardio and weight training. And, to increase your aerobic capacity, you should incorporate high-intensity interval training, or HIIT. You’ll likely be sweating buckets and burning calories galore, so be prepared.</item>
+        <item>If you already own a heart rate monitor or fitness tracker, then this is a good time to start using it. If not, you may want to either go out and buy one, or learn how to do it yourself. “Don’t just exercise for a set amount of time and call it quits,” Duffy says. “You need to bring the intensity with it, and a fitness tracker can help you get a sense of exactly how hard your heart is working.”</item>
+        <item>To further your endurance training, you need to put in total effort. “You’re going for muscle exhaustion, so remember to fully exhaust the muscles,” Boyce says. How can you do that? Boyce suggests that you “get good at the bodyweight staples—pullups, chinups, pushups, inverted rows, (and) squats. If you can master these movements for high reps, your muscles will get well-conditioned.”</item>
+        <item>It’s always tempting to take a break when training, but LaCerte advises that you should “stick with rest times of 30 to 45 seconds between sets, because this will help increase your overall endurance. If you are strength training, lift moderate to heavy weight and keep your rep range between 8–15 reps. If you’re running, mix low-intensity, steady-state cardio with sprinting.”</item>
+        <item>Fatigue may be your biggest enemy when endurance training, but there are some ways to combat it. First, drink beet juice, which is packed with healthy nitrates that can improve your cardiovascular functioning. “Beets can actually increase stamina by up to 16%, and it helps your muscles produce more energy, more efficiently, making exercise less exhausting,” Boyce says. Another way to boost your performance is by carefully selecting your music. “When people listen to favorable music their blood vessels expanded 26%,” according to a study, Boyce says.</item>
+        <item>If you want to build strength, you have to set goals and be patient. As you’re starting off, it’s important to be consistent and stick with your plan. When you’re in the gym, don’t get distracted. Stay focused on the task at hand. When you leave the gym, make sure you get proper rest and keep track of your progress. If you stay determined, your goals can be accomplished.</item>
+        <item>Motivation is key. Some good ways to stay motivated while you’re working out: Count down, not up, when performing reps. Another trick: “Look at your dominant hand while you’re pushing up,” Cardiello explains—it “automatically includes a positive reinforcement” because the dominant hand more easily and quickly moves the weight.</item>
+        <item>When strength training, you’ll be putting your body through very strenuous activity, so it’s important to maintain proper form. By maintaining proper form, “you’re guaranteed to activate the muscle groups that you are looking to train and, most important, you’ll stay healthy and injury-free,” Trink says. “The guy who can stay healthiest can train the most, and, in the long run, make the most progress.”</item>
+        <item>Ever notice how a bunch of seemingly insignificant things can make all the difference? Strength training is no different. When you’re strength training, you have to “pay attention to the little things, because you’re only as strong as your weakest link,” Boyce says. “If you notice a deficiency, address it in conjunction with your program.”</item>
+        <item>If you want to make progress, sometimes you have to change things up. “Ensure your body never gets adapted to what’s coming next,” LaCerte explains. Once that happens, you may notice diminishing strength gain results. To avoid this possibility, “switch up how heavy you’re lifting, your tempo of an exercise, your rep/set count, or what time of the day you’re lifting,” he says.</item>
+        <item>Forget calorie counting, and start thinking of food as fuel for your body. Getting six-pack abs is usually a function of fat loss, not a lack of muscle definition—and burning fat all boils down to a simple equation: Calories in versus calories burned. That means going beyond calories and studying your macronutrient intake—fats, protein, and carbs—to understand how much you consume relative to how much you burn during a workout.</item>
+        <item>Can’t get the scale to budge? It’s possible you’re gaining muscle and shedding body fat—and that means your net weight change will seem “stuck,” even though you’re making progress. “Take pictures on a weekly basis—front, back, (and) side pictures all from the same angle, same lighting, same clothing.” That way, you’ll see change over time, even though it may not look like it day to day.</item>
+        <item>Say it with us: Carbs are not the enemy. Unless you’re on an extreme nutrition plan like the keto diet, carbs are an essential source of your body’s energy. That said, you need to be mindful about how you consume those carbs, because eating too many carbs—or eating carbs at the wrong times—can cause your body to store the excess energy as fat. Here’s how to eat carbs for more muscle and less fat.</item>
+        <item>To flatten your belly, “go below your navel,” Cardiello says. “In a Syracuse University study, people burned more calories the day after they did a lower-body resistance training exercise than after they worked their upper bodies, simply because legs have more mass.” Here’s our roster of lower-body workouts on Men’s Fitness.</item>
+        <item>An often-overlooked factor, and one stressed by Trink, is to make “sure that your GI tract is healthy, because that’s how you absorb all your nutrients.” Do so by consuming vitamins, fiber, minerals, a probiotic, and water. Cardiello suggests you drink “ice cold water first thing in the morning” adding “you’ll naturally boost your metabolism by up to 24% for 90 minutes.” LaCerte recommends you “drink at least one gallon of water per day.”</item>
+    </string-array>
 
 </resources>

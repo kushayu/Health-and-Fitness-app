@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759208643153",
+    "project_id": "health-and-fitness-app-4cd0f",
+    "storage_bucket": "health-and-fitness-app-4cd0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759208643153:android:55379ce84a855c96bcc670",
+        "android_client_info": {
+          "package_name": "in.code.healthandfitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759208643153-on49g77ldc3f7a85p0ov4j9079r962eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjoZNcpz-1-4YfN7Nev4YoxVzdvuk9jKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759208643153-on49g77ldc3f7a85p0ov4j9079r962eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

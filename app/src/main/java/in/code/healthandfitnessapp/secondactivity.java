@@ -11,19 +11,19 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toolbar;
 
-public class secondactivity2 extends AppCompatActivity {
+public class secondactivity extends AppCompatActivity {
     Toolbar toolbar;
-    int[] arr = {R.id.id1,R.id.id2,R.id.id3,R.id.id4,R.id.id5,R.id.id6,R.id.id7,R.id.id8,R.id.id9,R.id.id10,R.id.id11,
-            R.id.id12,R.id.id13,R.id.id14,R.id.id15,R.id.id16,R.id.id17,R.id.id18,R.id.id19,R.id.id20,R.id.id21,
-            R.id.id22,R.id.id23,R.id.id24,R.id.id25,R.id.id26,R.id.id27,R.id.id28,R.id.id29,R.id.id30};
-
+    int[] arr = {R.id.id1,R.id.id2,R.id.id3,R.id.id4,R.id.id5,R.id.id6,R.id.id7,R.id.id8,R.id.id9,R.id.id10,
+            R.id.id11,R.id.id12,R.id.id13,R.id.id14,R.id.id15};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_secondactivity2);
+        setContentView(R.layout.activity_second);
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -69,8 +69,6 @@ public class secondactivity2 extends AppCompatActivity {
         return true;
     }
 
-
-
     private void setSupportActionBar(Toolbar toolbar) {
     }
 
@@ -80,7 +78,7 @@ public class secondactivity2 extends AppCompatActivity {
             if(view.getId()==arr[i]){
                 int value = i+1;
                 Log.i("First",String.valueOf(value));
-                Intent intent = new Intent(secondactivity2.this,thirdactivity2.class);
+                Intent intent = new Intent(secondactivity.this,thirdactivity.class);
                 intent.putExtra("value",String.valueOf(value));
                 startActivity(intent);
             }

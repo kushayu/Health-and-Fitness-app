@@ -77,7 +77,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="serif"
                         android:padding="5.0dp"
-                        android:text="Days 60"
+                        android:text="Days 30"
                         android:textSize="20dp"
                         android:textStyle="bold"
                         />
@@ -86,6 +86,99 @@
                         android:layout_height="wrap_content"
                         android:padding="5.0dp"
                         android:text="Everyday 15 Min"
+                        android:textColor="#ffff5722"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="2.0"
+                    >
+
+                    <pl.droidsonroids.gif.GifImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/exersice_1" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.0"
+                    >
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="10.0dp"
+                        android:src="@drawable/ic_baseline_arrow_forward_ios_24"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dp"
+                android:background="@drawable/btn"
+                android:text="Get Started"
+                android:textAllCaps="true"
+                android:textColor="#FFF"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dp"
+            android:layout_marginTop="15.0dp"
+            android:background="@drawable/backgroundcrop"
+            android:orientation="vertical"
+            >
+
+
+
+
+            <LinearLayout
+                android:onClick="Intermediate"
+                android:layout_width="fill_parent"
+                android:layout_height="150.0dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal"
+                >
+
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="monospace"
+                        android:padding="5.0dp"
+                        android:text="Intermediate"
+                        android:textColor="#ff000000"
+                        android:textStyle="bold"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="serif"
+                        android:padding="5.0dp"
+                        android:text="Days 30"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5.0dp"
+                        android:text="Everyday 30 Min"
                         android:textColor="#ffff5722"
                         android:textStyle="bold"/>
                 </LinearLayout>
@@ -118,7 +211,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/b1"
+                android:id="@+id/b2"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10.0dp"
@@ -171,7 +264,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="serif"
                         android:padding="5.0dp"
-                        android:text="Days 60"
+                        android:text="Days 30"
                         android:textSize="20dp"
                         android:textStyle="bold"
                         />
@@ -179,7 +272,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:padding="5.0dp"
-                        android:text="Everyday 15 Min"
+                        android:text="Everyday 45 Min"
                         android:textColor="#ffff5722"
                         android:textStyle="bold"/>
                 </LinearLayout>
@@ -193,7 +286,7 @@
                     <pl.droidsonroids.gif.GifImageView
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/exersice_1"
+                        android:src="@drawable/exersice_8"
                         />
                 </LinearLayout>
 
@@ -212,7 +305,7 @@
             </LinearLayout>
 
             <Button
-                android:id="@+id/b2"
+                android:id="@+id/b3"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10.0dp"
@@ -250,7 +343,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="monospace"
                         android:padding="5.0dp"
-                        android:text="Nutrition Tips"
+                        android:text="Health and Fitness Tips"
                         android:textColor="#ff000000"
                         android:textSize="20.0dp"
                         android:textStyle="bold" />
